@@ -28,3 +28,10 @@
 ### [NorgefierGPT](https://chat.openai.com/g/g-b6FqDyxNy-norgefiergpt)
 <b>Soaring white mountains, breathtaking fjords and emerald-green forests</b>
 * Generates pictures with Norwegian elements such as Beautiful Norwegian Nature and Skiing.
+
+### [DanmarkifierGPT](https://chat.openai.com/g/g-CKiZzWmlz-danmarkifiergpt)
+<b>Elements of Denmark to your images, like stepping on Legos..</b>
+* Generates pictures with Danish elements such as Legos, Carlsberg and well Legos...
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/88d10bd5-a1e2-46df-9575-eb4e8785e25d" width="300" height="300">
+
+
