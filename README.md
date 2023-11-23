@@ -59,5 +59,10 @@
 * Generates pictures with Swiss elements such as The Alps, Clocks, Cheese and Chocolate.
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/43d89caa-b525-4f72-b17b-272a50457fb2" width="300" height="300">
 
+### [NederlandifierGPT](https://chat.openai.com/g/g-JBfwFBoxc-nederlandifiergpt) (Netherlands/Holland)
+<b>Evoking the essence of the Netherlands in every image</b>
+* Generates pictures with Dutch elements such as Windmills, Tulip Fields and Stroopwafels with Cheese.
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/682a10dd-2c5f-4012-ad69-f77b2a8acc2f" width="300" height="300">
+
 
 
