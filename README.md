@@ -40,7 +40,12 @@
 
 ### [ÍslandifierGPT](https://chat.openai.com/g/g-xcgexE5Ln-islandifiergpt) (Iceland)
 <b>The land of magma hot and glacier cold</b>
-* Generates pictures with Icelandinc elements such as glaciers, geothermal activity and black sand beaches
+* Generates pictures with Icelandic elements such as Glaciers, Geothermal Activity and Black Sand Beaches
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/042209ec-87f9-43c2-a69f-598b5f5d0cc1" width="300" height="300">
+
+### [CanadafierGPT](https://chat.openai.com/) (Canada)
+<b>Home to an abundance of beautiful national parks with a generous splash of maple syrup</b>
+* Generates pictures with Canadian elements such as Rocky Mountains, Maple Cyrup and Hockey!
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/7f19e889-b100-4efd-be26-f3f0c4e1c838" width="300" height="300">
 
 
