@@ -38,4 +38,9 @@
 * Generates pictures with Danish elements such as Legos, Carlsberg and well Legos...
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/88d10bd5-a1e2-46df-9575-eb4e8785e25d" width="300" height="300">
 
+### [ÍslandifierGPT](https://chat.openai.com/g/g-xcgexE5Ln-islandifiergpt)
+<b>The land of magma hot and glacier cold</b>
+* Generates pictures with Icelandinc elements such as glaciers, geothermal activity and black sand beaches
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/042209ec-87f9-43c2-a69f-598b5f5d0cc1" width="300" height="300">
+
 
