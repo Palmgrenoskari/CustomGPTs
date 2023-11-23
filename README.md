@@ -20,10 +20,13 @@
 ### [SuomifierGPT](https://chat.openai.com/g/g-os3I4HJfV-suomifiergpt)
 <b>A touch of Finland in your images</b>
 * Generates pictures with Finnish elements such as Sauna, Koskenkorva and Karelian pasties.
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/db8063ce-d75f-48d1-ab66-f90c0af251e9" width="300" height="300">
 
 ### [SverigefierGPT](https://chat.openai.com/g/g-X7LBDa0F4-sverigefiergpt)
 <b>A touch of Sweden in your images... And the scent of meatballs...</b>
 * Generates pictures with Swedish elements such as Meatballs, Kanelbulle and Ikea.
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/90652eb3-5919-40f6-aa48-a98f9dfec066" width="300" height="300">
+
 
 ### [NorgefierGPT](https://chat.openai.com/g/g-b6FqDyxNy-norgefiergpt)
 <b>Soaring white mountains, breathtaking fjords and emerald-green forests</b>
