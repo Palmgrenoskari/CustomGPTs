@@ -48,4 +48,10 @@
 * Generates pictures with Canadian elements such as Rocky Mountains, Maple Cyrup and Hockey!
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/7f19e889-b100-4efd-be26-f3f0c4e1c838" width="300" height="300">
 
+### [ÉirefierGPT](https://chat.openai.com/g/g-HDr5aevVA-eirefiergpt) (Ireland)
+<b>Capturing Ireland's beauty and green spirit through images</b>
+* Generates pictures with Irish elements such as Green Hills, Ancient Castles, Shamrock and Celtic Art.
+* Okay this sample image is a bit over the top but to be fair I asked it to generate folklore elements ^
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/94be9903-506f-4a27-b298-3892c235b9c2" width="300" height="300">
+
 
