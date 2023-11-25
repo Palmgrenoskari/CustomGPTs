@@ -99,8 +99,8 @@
 * Generates pictures with Dutch elements such as windmills, tulip fields and atroopwafels with cheese.
 
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/682a10dd-2c5f-4012-ad69-f77b2a8acc2f" width="300" height="300">
-<img src="" width="300" height="300">
-<img src="" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/5fc57b0f-9612-4663-972b-aeea973aac96" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/91bea94f-9744-4e46-8db8-451dee65a3f5" width="300" height="300">
 
 ### [ScotlandifierGPT](https://chat.openai.com/g/g-zaNtCc5Cr-scotlandifiergpt) (Scotland)
 <b>Celebrating Scotland's charm with a touch of tartan and some single malt whiskey!</b>
