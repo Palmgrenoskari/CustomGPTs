@@ -1,6 +1,7 @@
 # CustomGPTs
 <b>Most of these CustomGPTs can also be found in [GPTStore.ai](https://gptstore.ai/creators/user-CYShTndHNajmnQrSOEllZMft)</b>
 * The site seems to be having some problems listing new GPTs from time to time
+* I'll figure out some better way to organize these eventually. In the mean time I suggest CTRL+F
 
 ## Everyday helper GPTs
 <b>Tools that could save you some prompting time - more to come!</b>
@@ -104,12 +105,18 @@
 
 ### [ScotlandifierGPT](https://chat.openai.com/g/g-zaNtCc5Cr-scotlandifiergpt) (Scotland)
 <b>Celebrating Scotland's charm with a touch of tartan and some single malt whiskey!</b>
-* Generates picture with Scottish elements such as the Highlands, historic castles and cultural icons like Tartan, Bagpipes and of course some fine Scotch whiskey.
+* Generates pictures with Scottish elements such as the Highlands, historic castles and cultural icons like Tartan, Bagpipes and of course some fine Scotch whiskey.
 * Second image prompt: "Nessie likes whiskey too!" ^
 
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/9c54967e-0c4f-4b3e-8d62-35064a7c7f09" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/248304da-f9a8-426e-8128-b266907dc82c" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/a10b7d95-b42b-40bc-96fa-461b3f5aa241" width="300" height="300">
 
+### [ChinafierGPT](https://chat.openai.com/g/g-Mh94Dwjmz-chinafiergpt)
+<b>Unveiling China's culture and landscapes, with a touch of playful panda charm!</b>
+* Generates pictures with Chinese elements such as The Great Wall of China, dragons, lanterns and pandas.
 
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/c37f9143-0436-4a86-bb65-5f2a468f19fe" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/4eccd0bc-374b-4d2a-814e-e8d5e5dccb30" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/29d29213-b8c2-413f-8a6d-77297ce9a848" width="300" height="300">
 
