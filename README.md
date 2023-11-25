@@ -30,19 +30,19 @@
   
 ### [SuomifierGPT](https://chat.openai.com/g/g-os3I4HJfV-suomifiergpt) (Finland)
 <b>A touch of Finland in your images</b>
-* Generates pictures with Finnish elements such as Sauna, Koskenkorva and Karelian pasties.
+* Generates pictures with Finnish elements such as Sauna, Koskenkorva, Karelian pasties and hockey.
 
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/db8063ce-d75f-48d1-ab66-f90c0af251e9" width="300" height="300">
-<img src="" width="300" height="300">
-<img src="" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/66c8cd8d-1688-4ad5-881e-976f16509bd9" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/88df8168-215f-4aa0-9fe8-75580046dbd2" width="300" height="300">
 
 ### [SverigefierGPT](https://chat.openai.com/g/g-X7LBDa0F4-sverigefiergpt) (Sweden)
 <b>A touch of Sweden in your images... And the scent of meatballs...</b>
-* Generates pictures with Swedish elements such as Meatballs, Kanelbulle and Ikea.
+* Generates pictures with Swedish elements such as Meatballs, Kanelbulle, Ikea aaand Hockey.
 
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/90652eb3-5919-40f6-aa48-a98f9dfec066" width="300" height="300">
-<img src="" width="300" height="300">
-<img src="" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/8a557b4a-cecd-4cd8-94bc-fd8bf83e408d" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/dc7e9591-c707-4070-909b-975451186480" width="300" height="300">
 
 
 ### [NorgefierGPT](https://chat.openai.com/g/g-b6FqDyxNy-norgefiergpt) (Norway)
