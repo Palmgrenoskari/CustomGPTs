@@ -10,6 +10,16 @@
 * Avoids challenging terminology if possible.
 * I personally use it to quickly solidify my understanding about any subject after studying it.
 * Or before studying to get a nice general picture about the subject before diving in.
+
+## Seasonal GPTs
+
+### [XmasGPT](https://chat.openai.com/g/g-7Jovax3FV-xmasgpt) (ChristmasGPT)
+<b></b>
+* Generates images with Christmas Magic. This one doesn't hold back!
+
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/9f59bac9-84f9-4925-a977-c19ffe9419f4" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/55157b28-68ef-46ef-b8e2-e6b2cb63cb82" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/234235b2-794f-4039-9adc-91410f80cfac" width="300" height="300">
   
 ## Countrifier GPTs
 <b>For now the countrifiers might be a bit meh - Correlates with DALL-E capability -> more capability, countrifiers less meh</b>
