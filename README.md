@@ -66,16 +66,16 @@
 * Generates pictures with Icelandic elements such as glaciers, geothermal activity and black sand beaches
 
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/042209ec-87f9-43c2-a69f-598b5f5d0cc1" width="300" height="300">
-<img src="" width="300" height="300">
-<img src="" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/628af97b-0d06-4100-89c3-a020f5f01887" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/88d391a5-9776-49e5-8a72-4efe9b747605" width="300" height="300">
 
 ### [CanadafierGPT](https://chat.openai.com/g/g-xf7spJoqR-canadafiergpt) (Canada)
 <b>Home to an abundance of beautiful national parks with a generous splash of maple syrup</b>
 * Generates pictures with Canadian elements such as Rocky Mountains, maple cyrup and hockey!
 
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/7f19e889-b100-4efd-be26-f3f0c4e1c838" width="300" height="300">
-<img src="" width="300" height="300">
-<img src="" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/e5b3965c-0103-458b-8c30-b39f1cfa9025" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/0e78b71d-3f98-4cfd-92bc-018b9aab92a5" width="300" height="300">
 
 ### [ÉirefierGPT](https://chat.openai.com/g/g-HDr5aevVA-eirefiergpt) (Ireland)
 <b>Capturing Ireland's beauty and green spirit through images</b>
