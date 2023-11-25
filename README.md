@@ -1,5 +1,6 @@
 # CustomGPTs
-<b>All of these CustomGPTs can also be found in [GPTStore.ai](https://gptstore.ai/creators/user-CYShTndHNajmnQrSOEllZMft)</b>
+<b>Most of these CustomGPTs can also be found in [GPTStore.ai](https://gptstore.ai/creators/user-CYShTndHNajmnQrSOEllZMft)</b>
+* The site seems to be having some problems listing new GPTs from time to time
 
 ## Everyday helper GPTs
 <b>Tools that could save you some prompting time - more to come!</b>
