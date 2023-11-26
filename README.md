@@ -120,3 +120,11 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/4eccd0bc-374b-4d2a-814e-e8d5e5dccb30" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/29d29213-b8c2-413f-8a6d-77297ce9a848" width="300" height="300">
 
+### [USAfierGPT](https://chat.openai.com/g/g-QdzKaz80K-usafiergpt)
+<b>Where everything's Bigger and Better!</b>
+* Generates images with American elements such as baseball, diners, bald eagles, Grand Canyon, Statue of Liberty and much more!
+
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/f1a13b29-da21-480c-927c-1da7b513faff" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/766e62ef-82b4-49e9-9f70-eb274ce15956" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/449bd579-2574-41e4-9025-de60250e9e62" width="300" height="300">
+
