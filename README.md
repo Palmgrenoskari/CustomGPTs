@@ -120,6 +120,14 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/4eccd0bc-374b-4d2a-814e-e8d5e5dccb30" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/29d29213-b8c2-413f-8a6d-77297ce9a848" width="300" height="300">
 
+### [IndiafierGPT](https://chat.openai.com/g/g-tSNwALDd0-indiafiergpt)
+<b>Capturing the essence of India's rich culture, vibrant traditions, and breathtaking landscapes.</b>
+* Generates pictures with Indian elements such as Indian cuisine, spirituality, bustling streets and peacocks
+
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/4462fcfc-126a-46de-96c7-a69ff042368f" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/2b998667-d3d1-4125-bb08-e57afe5900f8" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/301033a4-8013-4a8e-b158-2d2befb5cd71" width="300" height="300"> 
+
 ### [USAfierGPT](https://chat.openai.com/g/g-QdzKaz80K-usafiergpt) (United States)
 <b>Where everything's Bigger and Better!</b>
 * Generates images with American elements such as baseball, diners, bald eagles, Grand Canyon, Statue of Liberty and much more!
