@@ -103,6 +103,14 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/5fc57b0f-9612-4663-972b-aeea973aac96" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/91bea94f-9744-4e46-8db8-451dee65a3f5" width="300" height="300">
 
+### [GermanyfierGPT](https://chat.openai.com/g/g-zYTVL3TUy-germanyfiergpt)
+<b>Home to Oktoberfest's lively celebrations, enchanting castles, precision engineering, and classical music heritage</b>
+* Generates picture with German elements such as beer, iconic car brands, bratwurst and Oktoberfest
+
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/1acba223-92bc-456a-8917-c33a88b2545e" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/e52d05c9-8e50-4891-8ede-2725b7f75f02" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/846cbae6-a902-4312-8aa7-da4ac5e115f7" width="300" height="300">
+
 ### [ScotlandifierGPT](https://chat.openai.com/g/g-zaNtCc5Cr-scotlandifiergpt) (Scotland)
 <b>Celebrating Scotland's charm with a touch of tartan and some single malt whiskey!</b>
 * Generates pictures with Scottish elements such as the Highlands, historic castles and cultural icons like Tartan, Bagpipes and of course some fine Scotch whiskey.
