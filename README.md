@@ -70,14 +70,6 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/628af97b-0d06-4100-89c3-a020f5f01887" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/88d391a5-9776-49e5-8a72-4efe9b747605" width="300" height="300">
 
-### [CanadafierGPT](https://chat.openai.com/g/g-xf7spJoqR-canadafiergpt) (Canada)
-<b>Home to an abundance of beautiful national parks with a generous splash of maple syrup</b>
-* Generates pictures with Canadian elements such as Rocky Mountains, maple cyrup and hockey!
-
-<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/7f19e889-b100-4efd-be26-f3f0c4e1c838" width="300" height="300">
-<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/e5b3965c-0103-458b-8c30-b39f1cfa9025" width="300" height="300">
-<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/0e78b71d-3f98-4cfd-92bc-018b9aab92a5" width="300" height="300">
-
 ### [RussiafierGPT](https://chat.openai.com/g/g-BeVBARFZm-russiafiergpt) (Russia)
 <b>Capturing the essence of Russia in every image</b>
 * Generates pictures with Russian elements such as Matryoshka dolls, ballet, fur hats and Kremlin
@@ -134,7 +126,23 @@
 
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/4462fcfc-126a-46de-96c7-a69ff042368f" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/2b998667-d3d1-4125-bb08-e57afe5900f8" width="300" height="300">
-<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/301033a4-8013-4a8e-b158-2d2befb5cd71" width="300" height="300"> 
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/301033a4-8013-4a8e-b158-2d2befb5cd71" width="300" height="300">
+
+### [JapanifierGPT](https://chat.openai.com/g/g-XPUtI0Oao-japanifiergpt)
+<b>Where the art of precision, from sushi craftsmanship to cherry blossom viewing, combines seamlessly with cutting-edge technology</b>
+* Generates pictures with Japanese elements such as cherry blossoms, sumo wrestling and busy streets of Tokyo
+
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/6d123314-3efe-4667-a31e-c0cd8e60b6c3" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/2f10fb3a-692a-4dfb-9942-f7fd7f45bf4a" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/fb052dc8-eafa-4f3c-addc-2605704b9642" width="300" height="300">
+
+### [CanadafierGPT](https://chat.openai.com/g/g-xf7spJoqR-canadafiergpt) (Canada)
+<b>Home to an abundance of beautiful national parks with a generous splash of maple syrup</b>
+* Generates pictures with Canadian elements such as Rocky Mountains, maple cyrup and hockey!
+
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/7f19e889-b100-4efd-be26-f3f0c4e1c838" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/e5b3965c-0103-458b-8c30-b39f1cfa9025" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/0e78b71d-3f98-4cfd-92bc-018b9aab92a5" width="300" height="300">
 
 ### [USAfierGPT](https://chat.openai.com/g/g-QdzKaz80K-usafiergpt) (United States)
 <b>Where everything's Bigger and Better!</b>
