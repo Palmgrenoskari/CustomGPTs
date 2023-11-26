@@ -144,4 +144,12 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/eaf9befc-37a8-4f68-b5c6-b05845c8e080" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/f14cfcee-bced-4ab8-ab8c-587de6698b94" width="300" height="300">
 
+### [ArgentinafierGPT](https://chat.openai.com/g/g-RTWfe5yON-argentinafiergpt) (Argentina)
+<b>Where tango, football, mountains, and culture unite for unforgettable adventures!</b>
+* Generates images with Argentinian elements such as tango, football, the Andes and dulce de leche
+
+<img src="" width="300" height="300">
+<img src="" width="300" height="300">
+<img src="" width="300" height="300">
+
 
