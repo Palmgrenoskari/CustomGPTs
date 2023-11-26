@@ -78,6 +78,14 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/e5b3965c-0103-458b-8c30-b39f1cfa9025" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/0e78b71d-3f98-4cfd-92bc-018b9aab92a5" width="300" height="300">
 
+### [RussiafierGPT](https://chat.openai.com/g/g-BeVBARFZm-russiafiergpt) (Russia)
+<b>Capturing the essence of Russia in every image</b>
+* Generates pictures with Russian elements such as Matryoshka dolls, ballet, fur hats and Kremlin
+
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/b0d6ce7e-e3cb-4d8a-a3b9-fc177cd48a01" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/1dad0b9c-8665-485b-8ea6-2a6b957e79f2" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/363bae82-32d3-470a-89a8-157523d463c6" width="300" height="300">
+
 ### [ÉirefierGPT](https://chat.openai.com/g/g-HDr5aevVA-eirefiergpt) (Ireland)
 <b>Capturing Ireland's beauty and green spirit through images</b>
 * Generates pictures with Irish elements such as green hills, ancient castles, shamrock and Celtic art.
@@ -120,7 +128,7 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/4eccd0bc-374b-4d2a-814e-e8d5e5dccb30" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/29d29213-b8c2-413f-8a6d-77297ce9a848" width="300" height="300">
 
-### [IndiafierGPT](https://chat.openai.com/g/g-tSNwALDd0-indiafiergpt)
+### [IndiafierGPT](https://chat.openai.com/g/g-tSNwALDd0-indiafiergpt) (India)
 <b>Capturing the essence of India's rich culture, vibrant traditions, and breathtaking landscapes.</b>
 * Generates pictures with Indian elements such as Indian cuisine, spirituality, bustling streets and peacocks
 
