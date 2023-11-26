@@ -112,7 +112,7 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/248304da-f9a8-426e-8128-b266907dc82c" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/a10b7d95-b42b-40bc-96fa-461b3f5aa241" width="300" height="300">
 
-### [ChinafierGPT](https://chat.openai.com/g/g-Mh94Dwjmz-chinafiergpt)
+### [ChinafierGPT](https://chat.openai.com/g/g-Mh94Dwjmz-chinafiergpt) (China)
 <b>Unveiling China's culture and landscapes, with a touch of playful panda charm!</b>
 * Generates pictures with Chinese elements such as The Great Wall of China, dragons, lanterns and pandas.
 
@@ -120,7 +120,7 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/4eccd0bc-374b-4d2a-814e-e8d5e5dccb30" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/29d29213-b8c2-413f-8a6d-77297ce9a848" width="300" height="300">
 
-### [USAfierGPT](https://chat.openai.com/g/g-QdzKaz80K-usafiergpt)
+### [USAfierGPT](https://chat.openai.com/g/g-QdzKaz80K-usafiergpt) (United States)
 <b>Where everything's Bigger and Better!</b>
 * Generates images with American elements such as baseball, diners, bald eagles, Grand Canyon, Statue of Liberty and much more!
 
@@ -128,11 +128,20 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/766e62ef-82b4-49e9-9f70-eb274ce15956" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/449bd579-2574-41e4-9025-de60250e9e62" width="300" height="300">
 
-### [MéxicofierGPT](https://chat.openai.com/g/g-JepaxBqMS-mexicofiergpt)
+### [MéxicofierGPT](https://chat.openai.com/g/g-JepaxBqMS-mexicofiergpt) (Mexico)
 <b>Where culture, cuisine, and colorful traditions meet!</b>
 * Generates images with Mexican elements such as Aztec ruins, Mariachi, tacos, and Dia de los Muertos celebrations
 
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/bbfc92bc-c5a7-4dc4-adfd-d5c4580f3ac2" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/944da9e4-43ea-4af0-bcf9-d1bb9d1866a6" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/d449dc11-5fab-4e91-a43a-63d5867cd169" width="300" height="300">
+
+### [ChilefierGPT](https://chat.openai.com/g/g-MOZnyxEoh-chilefiergpt) (Chile)
+<b>Capturing Chile's essence from Atacama deserts to Patagonian fjords</b>
+* Generates images with Chilean elements such as Atacama Desert, Andes Mountains and Chilean rodeos
+
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/a8410c55-ec5a-49d6-b828-4bfb934678f8" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/eaf9befc-37a8-4f68-b5c6-b05845c8e080" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/f14cfcee-bced-4ab8-ab8c-587de6698b94" width="300" height="300">
+
 
