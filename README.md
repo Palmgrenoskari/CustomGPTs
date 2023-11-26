@@ -128,7 +128,7 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/766e62ef-82b4-49e9-9f70-eb274ce15956" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/449bd579-2574-41e4-9025-de60250e9e62" width="300" height="300">
 
-### [MexicofierGPT](https://chat.openai.com/g/g-JepaxBqMS-mexicofiergpt)
+### [MéxicofierGPT](https://chat.openai.com/g/g-JepaxBqMS-mexicofiergpt)
 <b>Where culture, cuisine, and colorful traditions meet!</b>
 * Generates images with Mexican elements such as Aztec ruins, Mariachi, tacos, and Dia de los Muertos celebrations
 
