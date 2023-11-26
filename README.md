@@ -176,4 +176,12 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/852955ef-d7b8-4955-acdd-6beb508561ba" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/35847d70-a7ff-43c3-bbf2-d4620491db19" width="300" height="300">
 
+### [BrazilifierGPT](https://chat.openai.com/g/g-GVsp5tLMv-brazilifiergpt)
+<b>Home to the Amazon Rainforest, the vibrant rhythms of samba, and the dazzling spectacle of Carnival</b>
+* Generates images with Brazilian elements such as samba, carnivals, churrasco and Christ the Redeemer statue
+
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/09cbeb85-ab1e-4626-a0fb-7ae1b6c7e38a" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/719c66bd-fe0c-43e1-aacb-a7bf48a57a9e" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/f715ac44-97cd-495d-b0d8-905db21e2315" width="300" height="300">
+
 
