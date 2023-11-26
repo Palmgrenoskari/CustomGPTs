@@ -148,8 +148,8 @@
 <b>Where tango, football, mountains, and culture unite for unforgettable adventures!</b>
 * Generates images with Argentinian elements such as tango, football, the Andes and dulce de leche
 
-<img src="" width="300" height="300">
-<img src="" width="300" height="300">
-<img src="" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/e6d4ffea-f2ea-4f0f-b529-e332273e29ce" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/852955ef-d7b8-4955-acdd-6beb508561ba" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/35847d70-a7ff-43c3-bbf2-d4620491db19" width="300" height="300">
 
 
