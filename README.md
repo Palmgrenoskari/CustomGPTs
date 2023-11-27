@@ -93,7 +93,7 @@
 
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/8a4c74f4-40d2-47ea-bf5a-17be910d8d77" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/b2abdffe-ec32-4478-a102-0a45294d7560" width="300" height="300">
-<img src="" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/a98d28e6-ccc1-4286-a7d0-201ead4fc9c0" width="300" height="300">
 
 ### [SuissefierGPT](https://chat.openai.com/g/g-wK1sk2FWf-suissefiergpt) (Switzerland)
 <b>Famous for its mountains, clocks and food, whether you enjoy savory or sweet</b>
