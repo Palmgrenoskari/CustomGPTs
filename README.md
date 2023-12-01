@@ -24,10 +24,10 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/234235b2-794f-4039-9adc-91410f80cfac" width="300" height="300">
   
 ## Countrifier GPTs
-<b>For now the countrifiers might be a bit meh - Correlates with DALL-E capability -> more capability, countrifiers less meh</b>
+<b>Countrifiers work decently well in my opinion as of today. The cool thing is that these will only keep improving as DALL-E also improves</b>
 * Generates pictures with elements of selected country.
-* Nothing too obvious, its not going to spam the image full of country's flag etc.
-* You can also upload an image, just emphasize that its your own image in case the model initially declines.
+* Nothing too obvious, its not going to spam the image full of country's flag etc. Might also do such versions eventually!
+* You can also upload an image, but it doesn't work well (yet) because in short DALL-E uses img2text2img transformation instead of img2img -> Information is lost in the process.
   
 ### [SuomifierGPT](https://chat.openai.com/g/g-os3I4HJfV-suomifiergpt) (Finland)
 <b>A touch of Finland in your images</b>
