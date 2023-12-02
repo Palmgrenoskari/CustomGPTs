@@ -1,4 +1,4 @@
-# CustomGPTs
+![image](https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/e6609d8d-875e-42e3-a5be-4a4faf97ba11)# CustomGPTs
 <b>Most of these CustomGPTs can also be found in [GPTStore.ai](https://gptstore.ai/creators/user-CYShTndHNajmnQrSOEllZMft)</b>
 * The site seems to be having some problems listing new GPTs from time to time
 * I'll figure out some better way to organize these eventually. In the mean time I suggest CTRL+F
@@ -119,6 +119,14 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/e52d05c9-8e50-4891-8ede-2725b7f75f02" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/846cbae6-a902-4312-8aa7-da4ac5e115f7" width="300" height="300">
 
+### [FrancefierGPT]() (France)
+<b>Baguettes, berets, and Bordeaux: France, where every moment is a rendezvous with romance and refinement!</b>
+* Generates images with French elements
+
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/0c43e30f-1eea-4b1a-ba90-c064db17a284" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/8076faa6-e10c-4c03-a411-22655dd9c1eb" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/cdb69fd7-5019-4fd5-bf93-051deebe19e5" width="300" height="300">
+
 ### [ScotlandifierGPT](https://chat.openai.com/g/g-zaNtCc5Cr-scotlandifiergpt) (Scotland)
 <b>Celebrating Scotland's charm with a touch of tartan and some single malt whiskey!</b>
 * Generates pictures with Scottish elements such as the Highlands, historic castles and cultural icons like Tartan, Bagpipes and of course some fine Scotch whiskey.
@@ -144,7 +152,7 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/2b998667-d3d1-4125-bb08-e57afe5900f8" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/301033a4-8013-4a8e-b158-2d2befb5cd71" width="300" height="300">
 
-### [AussiefierGPT]() (Australia)
+### [AussiefierGPT](https://chat.openai.com/g/g-7jkpHwRgO-aussiefiergpt) (Australia)
 <b>Kangaroos, reefs, and barbies: Australia, where adventures and mateship are always just a 'G'day' away!</b>
 * Generates pictures with Australian elements
 
@@ -152,7 +160,7 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/79e47c60-fcaf-4c13-9c88-91e76d5f3bba" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/240c76e5-610a-4cc8-a983-a257c327b9b1" width="300" height="300">
 
-### [JapanifierGPT](https://chat.openai.com/g/g-XPUtI0Oao-japanifiergpt)
+### [JapanifierGPT](https://chat.openai.com/g/g-XPUtI0Oao-japanifiergpt) (Japan)
 <b>Where the art of precision, from sushi craftsmanship to cherry blossom viewing, combines seamlessly with cutting-edge technology</b>
 * Generates pictures with Japanese elements such as cherry blossoms, sumo wrestling and busy streets of Tokyo
 
@@ -200,7 +208,7 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/852955ef-d7b8-4955-acdd-6beb508561ba" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/35847d70-a7ff-43c3-bbf2-d4620491db19" width="300" height="300">
 
-### [BrazilifierGPT](https://chat.openai.com/g/g-GVsp5tLMv-brazilifiergpt)
+### [BrazilifierGPT](https://chat.openai.com/g/g-GVsp5tLMv-brazilifiergpt) (Brazil)
 <b>Home to the Amazon Rainforest, the vibrant rhythms of samba, and the dazzling spectacle of Carnival</b>
 * Generates images with Brazilian elements such as samba, carnivals, churrasco and Christ the Redeemer statue
 
