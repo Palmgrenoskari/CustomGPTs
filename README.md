@@ -119,7 +119,7 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/e52d05c9-8e50-4891-8ede-2725b7f75f02" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/846cbae6-a902-4312-8aa7-da4ac5e115f7" width="300" height="300">
 
-### [FrancefierGPT]() (France)
+### [FrancefierGPT](https://chat.openai.com/g/g-4kDjCCFDx-francefiergpt) (France)
 <b>Baguettes, berets, and Bordeaux: France, where every moment is a rendezvous with romance and refinement!</b>
 * Generates images with French elements
 
