@@ -1,4 +1,4 @@
-![image](https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/e6609d8d-875e-42e3-a5be-4a4faf97ba11)# CustomGPTs
+# CustomGPTs
 <b>Most of these CustomGPTs can also be found in [GPTStore.ai](https://gptstore.ai/creators/user-CYShTndHNajmnQrSOEllZMft)</b>
 * The site seems to be having some problems listing new GPTs from time to time
 * I'll figure out some better way to organize these eventually. In the mean time I suggest CTRL+F
