@@ -144,6 +144,14 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/2b998667-d3d1-4125-bb08-e57afe5900f8" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/301033a4-8013-4a8e-b158-2d2befb5cd71" width="300" height="300">
 
+### [AussiefierGPT]() (Australia)
+<b>Kangaroos, reefs, and barbies: Australia, where adventures and mateship are always just a 'G'day' away!</b>
+* Generates pictures with Australian elements
+
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/4b6c7a7e-8649-476a-ac65-765000593ec0" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/79e47c60-fcaf-4c13-9c88-91e76d5f3bba" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/240c76e5-610a-4cc8-a983-a257c327b9b1" width="300" height="300">
+
 ### [JapanifierGPT](https://chat.openai.com/g/g-XPUtI0Oao-japanifiergpt)
 <b>Where the art of precision, from sushi craftsmanship to cherry blossom viewing, combines seamlessly with cutting-edge technology</b>
 * Generates pictures with Japanese elements such as cherry blossoms, sumo wrestling and busy streets of Tokyo
