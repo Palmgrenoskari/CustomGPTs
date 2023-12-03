@@ -127,6 +127,14 @@
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/8076faa6-e10c-4c03-a411-22655dd9c1eb" width="300" height="300">
 <img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/cdb69fd7-5019-4fd5-bf93-051deebe19e5" width="300" height="300">
 
+### [EspañafierGPT](https://chat.openai.com/g/g-DIfHnk6fr-espanafiergpt) (Spain)
+<b>Paella, fiestas, and siestas: Spain, where every day is a colorful celebration of life and art!</b>
+* Generates images with Spanish elements
+
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/dd69971c-c69f-4d0d-975d-4c1829c4c647" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/908b7a0d-77ae-43e0-ab9b-af87a10a3dac" width="300" height="300">
+<img src="https://github.com/Palmgrenoskari/CustomGPTs/assets/62388905/a6d900a5-bafd-4786-b986-1ebc858defb8" width="300" height="300">
+
 ### [ScotlandifierGPT](https://chat.openai.com/g/g-zaNtCc5Cr-scotlandifiergpt) (Scotland)
 <b>Celebrating Scotland's charm with a touch of tartan and some single malt whiskey!</b>
 * Generates pictures with Scottish elements such as the Highlands, historic castles and cultural icons like Tartan, Bagpipes and of course some fine Scotch whiskey.
